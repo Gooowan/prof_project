@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+rustyline = "9.0"
+crossterm = "0.23"
+termion = "1.5"

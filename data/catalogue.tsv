@@ -1,0 +1,51 @@
+sneaker_id	name	brand	price	description	images
+1	Air Max	Nike	150.0	A popular sneaker	image1.png
+2	Yeezy	Adidas	200.0	A trendy sneaker	image2.png
+3	Chuck Taylor	Converse	60.0	A classic sneaker	image3.png
+4	Stan Smith	Adidas	80.0	A timeless sneaker	image4.png
+5	Jordan 1	Nike	170.0	A legendary sneaker	image5.png
+6	Ultra Boost	Adidas	180.0	A comfortable sneaker	image6.png
+7	Old Skool	Vans	65.0	A stylish sneaker	image7.png
+8	Blazer	Nike	100.0	A vintage sneaker	image8.png
+9	Gel-Lyte	Asics	110.0	A retro sneaker	image9.png
+10	Pegasus	Nike	120.0	A versatile sneaker	image10.png
+11	Classic Leather	Reebok	90.0	A sleek sneaker	image11.png
+12	Sk8-Hi	Vans	70.0	A high-top sneaker	image12.png
+13	Gazelle	Adidas	75.0	A minimalistic sneaker	image13.png
+14	Huarache	Nike	130.0	A unique sneaker	image14.png
+15	NMD	Adidas	140.0	A modern sneaker	image15.png
+16	Air Force 1	Nike	90.0	A iconic sneaker	image16.png
+17	Cortez	Nike	85.0	A heritage sneaker	image17.png
+18	Continental 80	Adidas	100.0	A retro-inspired sneaker	image18.png
+19	Roshe Run	Nike	80.0	A lightweight sneaker	image19.png
+20	Superstar	Adidas	100.0	A shell-toe sneaker	image20.png
+21	ZX 750	Adidas	120.0	A tech-inspired sneaker	image21.png
+22	Air Presto	Nike	130.0	A flexible sneaker	image22.png
+23	One Star	Converse	70.0	A star-studded sneaker	image23.png
+24	Flyknit Racer	Nike	150.0	A knitted sneaker	image24.png
+25	Daytona DMX	Reebok	110.0	A dynamic sneaker	image25.png
+26	Air Max 97	Nike	170.0	A wavy sneaker	image26.png
+27	EQT Support	Adidas	130.0	A supportive sneaker	image27.png
+28	Instapump Fury	Reebok	160.0	A futuristic sneaker	image28.png
+29	React Element 55	Nike	140.0	A responsive sneaker	image29.png
+30	Tubular Shadow	Adidas	110.0	A progressive sneaker	image30.png
+31	Prophere	Adidas	120.0	A bold sneaker	image31.png
+32	Zoom Fly	Nike	160.0	A fast sneaker	image32.png
+33	RS-X	Puma	110.0	A chunky sneaker	image33.png
+34	Air Max 720	Nike	180.0	A cushioned sneaker	image34.png
+35	Yung-1	Adidas	120.0	A retro runner sneaker	image35.png
+36	Air Max 270	Nike	150.0	A lifestyle sneaker	image36.png
+37	Terrex Free Hiker	Adidas	200.0	A hiking sneaker	image37.png
+38	Classic Nylon	Reebok	75.0	A versatile sneaker	image38.png
+39	Wave Runner	Yeezy	300.0	A dad shoe sneaker	image39.png
+40	Air Zoom Pegasus	Nike	130.0	A reliable sneaker	image40.png
+41	Samba	Adidas	70.0	A soccer-inspired sneaker	image41.png
+42	RS-0	Puma	100.0	A reboot sneaker	image42.png
+43	Wave Rider	Mizuno	120.0	A performance sneaker	image43.png
+44	IGNITE Limitless	Puma	110.0	A limitless sneaker	image44.png
+45	Air Max 90	Nike	120.0	A classic runner sneaker	image45.png
+46	Speed Trainer 2	Balenciaga	650.0	A luxury sneaker	image46.png
+47	RS-100	Puma	90.0	A colorful sneaker	image47.png
+48	Flyknit Trainer	Nike	150.0	A lightweight trainer	image48.png
+49	Nite Jogger	Adidas	130.0	A night running sneaker	image49.png
+50	Harden Vol. 4	Adidas	140.0	A basketball sneaker	image50.png
